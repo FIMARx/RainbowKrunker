@@ -32,7 +32,8 @@ Join my discord server https://discord.gg/xC3ZrYXqnM
 .button,
 #menuPingText,
 .material-icons,
-.youtube
+.youtube,
+.strmLink
 {
     color: white;
     animation: text 5s linear 0s infinite alternate;
@@ -61,11 +62,30 @@ Join my discord server https://discord.gg/xC3ZrYXqnM
 .bigShadowT,
 #streamContainer,
 #newsHolder,
-#termsInfo
+#termsInfo,
+#chatList,
+#chatInput,
+.endCard,
+.stickyHeader,
+.serverHeader,
+#menuWindow,
+.settingsHeader
 {
     background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
     background-size: 400% 400%;
     animation: gradient 15s ease infinite;
+}
+
+.slider:before
+{
+    color: white;
+    animation: background 5s linear 0s infinite alternate;
+}
+
+.chatMsg
+{
+    color: white;
+    animation: text 5s linear 0s infinite alternate;
 }
 
 a:visited
