@@ -41,15 +41,57 @@ Join my discord server https://discord.gg/xC3ZrYXqnM
 .gameUIH,
 .menuKRCount,
 #instructions,
-#recTimer
+#recTimer,
+#menuClassName,
+#menuClassSubtext,
+.menuClassPlayerName,
+.button.small,
+#mLevelCont,
+.newLeaderScore,
+.newLeaderCounter,
+#seasonLabel,
+#endTimer,
+.newLeaderScore,
+#specGameInfo,
+#specTimer,
+.th,
+#curGameInfo,
+#gameMessage,
+.classCard,
+.classWeap,
+.classHP,
+.classLvl,
+.weapKey,
+.countIcon,
+#killsVal,
+#deathsVal,
+#streakVal,
+#myScoreVal,
+.tabHeader,
+#killCardBy,
+#killCardKick,
+#reloadMsg,
+.matchVoteThumb,
+.matchVoteMap,
+#maxHP,
+#ammoVal,
+#healthValue,
+#ammoMax,
+#kCName,
+#kCInfo,
+#kCInfoS,
+.matchVoteMode,
+.matchVoteTotal,
+.kfItem,
+.kfMsg
 {
     color: white;
-    animation: text 5s linear 0s infinite alternate;
+    animation: text 5s linear 0s infinite alternate !important;
 }
 
 #onetrust-consent-sdk #onetrust-banner-sdk a[href]
 {
-    color: #0000A0;
+    color: #2196f3;
 }
 
 /* game font */
@@ -89,7 +131,15 @@ Join my discord server https://discord.gg/xC3ZrYXqnM
 .buttonP,
 #spinButton,
 .spinPrevIcon,
-#mLevelCont
+#mLevelCont,
+.menuClassLevelBox,
+#newLeaderDisplay,
+.newLeaderContainer,
+#claimPop,
+#specTimer,
+#killCard,
+.kfItem,
+.countIcon
 {
     background: linear-gradient(-45deg, #ee775275, #e73c7e7a, #23a6d57a, #23d5ab75); /* You can edit your ow color and in "deg" the animation from where etc... */
     background-size: 400% 400%;
@@ -114,7 +164,7 @@ Join my discord server https://discord.gg/xC3ZrYXqnM
 .a:visited,
 .menuLink
 {
-    color: #0000A0;
+    color: #2196f3;
 }
 
 /* all else to be black */
