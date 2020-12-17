@@ -13,543 +13,326 @@ Join my discord server https://discord.gg/xC3ZrYXqnM
 /* I made a better code but it crashed and I lost it :( I lost lot time and made new one but it's not good like the old one. R.I.P anyways I didn't give up toh I raged lot */
 
 /* all texts etc */
-.menuItemTitle,
-.twitch,
-#onetrust-consent-sdk #onetrust-accept-btn-handler,
-#onetrust-banner-sdk #onetrust-reject-all-handler,
-#onetrust-consent-sdk #onetrust-pc-btn-handler,
-#onetrust-consent-sdk #onetrust-policy-title,
-#onetrust-consent-sdk #onetrust-policy-text,
-#onetrust-consent-sdk .ot-b-addl-desc,
-#onetrust-consent-sdk .ot-dpd-desc,
-#onetrust-consent-sdk .ot-dpd-title,
-#onetrust-consent-sdk #onetrust-policy-text *:not(.onetrust-vendors-list-handler),
-#onetrust-consent-sdk .ot-dpd-desc *:not(.onetrust-vendors-list-handler),
-#onetrust-consent-sdk #onetrust-banner-sdk #banner-options,
-.headerBar div,
-.terms,
-.standout,
-#mapInfo,
-.button,
-#menuPingText,
-.material-icons,
-.youtube,
-.strmLink,
-.accountButton,
-#spinHeader,
-#spinCost,
-.gameUIH,
-.menuKRCount,
-#instructions,
-#recTimer,
-#menuClassName,
-#menuClassSubtext,
-.menuClassPlayerName,
-.button.small,
-#mLevelCont,
-.newLeaderScore,
-.newLeaderCounter,
-#seasonLabel,
-#endTimer,
-.newLeaderScore,
-#specGameInfo,
-#specTimer,
-.th,
-#curGameInfo,
-#gameMessage,
-.classCard,
-.classWeap,
-.classHP,
-.classLvl,
-.weapKey,
-.countIcon,
-#killsVal,
-#deathsVal,
-#streakVal,
-#myScoreVal,
-.tabHeader,
-#killCardBy,
-#killCardKick,
-#reloadMsg,
-.matchVoteThumb,
-.matchVoteMap,
-#maxHP,
-#ammoVal,
-#healthValue,
-#ammoMax,
-#kCName,
-#kCInfo,
-#kCInfoS,
-.matchVoteMode,
-.matchVoteTotal,
-.kfItem,
-.kfMsg,
-#kCStat,
-.material-icons,
-.reportBut,
-.shareBut,
-.newLeaderTeam,
-.newLeaderTeamScore,
-#specScoreTm1,
-#networkLagHed,
-#profileName,
-#profileKR,
-#navTitle,
-.marketPrice
-{
-    color: white;
-    animation: text 5s linear 0s infinite alternate !important;
+.menuItemTitle, .twitch, #onetrust-consent-sdk #onetrust-accept-btn-handler, #onetrust-banner-sdk #onetrust-reject-all-handler, #onetrust-consent-sdk #onetrust-pc-btn-handler, #onetrust-consent-sdk #onetrust-policy-title, #onetrust-consent-sdk #onetrust-policy-text, #onetrust-consent-sdk .ot-b-addl-desc, #onetrust-consent-sdk .ot-dpd-desc, #onetrust-consent-sdk .ot-dpd-title, #onetrust-consent-sdk #onetrust-policy-text *:not(.onetrust-vendors-list-handler), #onetrust-consent-sdk .ot-dpd-desc *:not(.onetrust-vendors-list-handler), #onetrust-consent-sdk #onetrust-banner-sdk #banner-options, .headerBar div, .terms, .standout, #mapInfo, .button, #menuPingText, .material-icons, .youtube, .strmLink, .accountButton, #spinHeader, #spinCost, .gameUIH, .menuKRCount, #instructions, #recTimer, #menuClassName, #menuClassSubtext, .menuClassPlayerName, .button.small, #mLevelCont, .newLeaderScore, .newLeaderCounter, #seasonLabel, #endTimer, .newLeaderScore, #specGameInfo, #specTimer, .th, #curGameInfo, #gameMessage, .classCard, .classWeap, .classHP, .classLvl, .weapKey, .countIcon, #killsVal, #deathsVal, #streakVal, #myScoreVal, .tabHeader, #killCardBy, #killCardKick, #reloadMsg, .matchVoteThumb, .matchVoteMap, #maxHP, #ammoVal, #healthValue, #ammoMax, #kCName, #kCInfo, #kCInfoS, .matchVoteMode, .matchVoteTotal, .kfItem, .kfMsg, #kCStat, .material-icons, .reportBut, .shareBut, .newLeaderTeam, .newLeaderTeamScore, #specScoreTm1, #networkLagHed, #profileName, #profileKR, #navTitle, .marketPrice {
+    color: white; animation: text 5s linear 0s infinite alternate !important;
 }
 
-#onetrust-consent-sdk #onetrust-banner-sdk a[href]
-{
+#onetrust-consent-sdk #onetrust-banner-sdk a[href] {
     color: #2196f3;
 }
 
 /* game font */
-*
-{
-    font-family: arial;
-    src: url(https://raw.githubusercontent.com/FIMARx/RainbowKrunker/main/font/font2.ttf); /* You can link your own font here */
+* {
+    font-family: arial; src: url(https://raw.githubusercontent.com/FIMARx/RainbowKrunker/main/font/font2.ttf); /* You can link your own font here */
     /* You can change font size */
-    font-size: 25px;
-    /* I like to keep it bold */
-    font-weight: bold;
-    color: #fff;
+    font-size: 25px; /* I like to keep it bold */
+    font-weight: bold; color: #fff;
 }
 
 /* Background as for settings etc it mostly have the same background animation */
-#instructionsUpdate,
-.scrollItemNew,
-.profileTab,
-#navBar,
-.menuItem,
-.headerBarLeft,
-.headerBar,
-.button,
-.buttonG,
-.bigShadowT,
-#streamContainer,
-#newsHolder,
-#termsInfo,
-#chatList,
-#chatInput,
-.endCard,
-.stickyHeader,
-.serverHeader,
-#menuWindow,
-.settingsHeader,
-#onetrust-consent-sdk #onetrust-banner-sdk,
-#policePopC,
-.button,
-.small,
-.buttonP,
-#spinButton,
-.spinPrevIcon,
-#mLevelCont,
-.menuClassLevelBox,
-#newLeaderDisplay,
-.newLeaderContainer,
-#claimPop,
-#specTimer,
-#killCard,
-.kfItem,
-.countIcon,
-#chatScroller,
-.scrollItem,
-#postEntryC
-{
+#instructionsUpdate, .scrollItemNew, .profileTab, #navBar, .menuItem, .headerBarLeft, .headerBar, .button, .buttonG, .bigShadowT, #streamContainer, #newsHolder, #termsInfo, #chatList, #chatInput, .endCard, .stickyHeader, .serverHeader, #menuWindow, .settingsHeader, #onetrust-consent-sdk #onetrust-banner-sdk, #policePopC, .button, .small, .buttonP, #spinButton, .spinPrevIcon, #mLevelCont, .menuClassLevelBox, #newLeaderDisplay, .newLeaderContainer, #claimPop, #specTimer, #killCard, .kfItem, .countIcon, #chatScroller, .scrollItem, #postEntryC, #onetrust-consent-sdk #onetrust-pc-sdk, #onetrust-consent-sdk #search-container, #onetrust-consent-sdk #onetrust-pc-sdk .ot-switch.ot-toggle, #onetrust-consent-sdk #onetrust-pc-sdk group-toggle .checkbox, #onetrust-consent-sdk #onetrust-pc-sdk #pc-title:after, #captcha-holder, .socPost, .feedTab, .leaderNav2, .mapListItem {
     background: linear-gradient(-45deg, #ee775275, #e73c7e7a, #23a6d57a, #23d5ab75); /* You can edit your ow color and in "deg" the animation from where etc... */
-    background-size: 400% 400%;
-    animation: gradient 15s ease infinite;
+    background-size: 400% 400%; animation: gradient 15s ease infinite;
 }
 
-#hubBox,
-#searchBtn,
-.chatBlobImg
-{
-    color: white;
-    animation: background 5s linear 0s infinite alternate !important;
+#hubBox, #searchBtn, .chatBlobImg {
+    color: white; animation: background 5s linear 0s infinite alternate !important;
 }
-
 
 /* This is kinda epic */
-#backgroundImage
-{
-    background: linear-gradient(-45deg, #ee775275, #e73c7e7a, #23a6d57a, #23d5ab75), url(../img/menu-bg/2.png);
-    background-size: 110% 110%;
-    animation: gradient 15s ease infinite;
-    background-repeat: no-repeat;
+#backgroundImage {
+    background: linear-gradient(-45deg, #ee775275, #e73c7e7a, #23a6d57a, #23d5ab75), url(../img/menu-bg/2.png); background-size: 110% 110%; animation: gradient 15s ease infinite; background-repeat: no-repeat;
 }
 
 /* Switchers */
-.slider:before,
-.slider2:before
-{
-    color: white;
-    animation: background 5s linear 0s infinite alternate;
+.slider:before, .slider2:before {
+    color: white; animation: background 5s linear 0s infinite alternate;
 }
 
 /* Chat messages Color */
-.chatMsg
-{
+.chatMsg {
     color: #000 !important;
 }
 
 /* Make link colors to be dark blue */
-.a:visited,
-.menuLink
-{
+.a:visited, .menuLink {
     color: #2196f3;
 }
 
 /* all else to be black */
-.settingTab
-{
+.settingTab {
     color: black !important;
 }
 
 /* KeyFrames for backgrounds */
-@keyframes gradient
-{
-    0%
-    {
+@keyframes gradient {
+    0% {
         background-position: 0% 50%;
     }
-    50%
-    {
+
+    50% {
         background-position: 100% 50%;
     }
-    100%
-    {
+
+    100% {
         background-position: 0% 50%;
     }
 }
 
 /* KeyFrames for background color */
-@keyframes background
-{
-    100%,
-    0%
-    {
+@keyframes background {
+    100%, 0% {
         background-color: rgb(255, 0, 0);
     }
 
-    8%
-    {
+    8% {
         background-color: rgb(255, 127, 0);
     }
 
-    16%
-    {
+    16% {
         background-color: rgb(255, 255, 0);
     }
 
-    25%
-    {
+    25% {
         background-color: rgb(127, 255, 0);
     }
 
-    33%
-    {
+    33% {
         background-color: rgb(0, 255, 0);
     }
 
-    41%
-    {
+    41% {
         background-color: rgb(0, 255, 127);
     }
 
-    50%
-    {
+    50% {
         background-color: rgb(0, 255, 255);
     }
 
-    58%
-    {
+    58% {
         background-color: rgb(0, 127, 255);
     }
 
-    66%
-    {
+    66% {
         background-color: rgb(0, 0, 255);
     }
 
-    75%
-    {
+    75% {
         background-color: rgb(127, 0, 255);
     }
 
-    83%
-    {
+    83% {
         background-color: rgb(255, 0, 255);
     }
 
-    91%
-    {
+    91% {
         background-color: rgb(255, 0, 127);
     }
 }
 
 /* KeyFrames for text */
-@keyframes text
-{
-    100%,
-    0%
-    {
+@keyframes text {
+    100%, 0% {
         color: rgb(255, 0, 0);
     }
 
-    8%
-    {
+    8% {
         color: rgb(255, 127, 0);
     }
 
-    16%
-    {
+    16% {
         color: rgb(255, 255, 0);
     }
 
-    25%
-    {
+    25% {
         color: rgb(127, 255, 0);
     }
 
-    33%
-    {
+    33% {
         color: rgb(0, 255, 0);
     }
 
-    41%
-    {
+    41% {
         color: rgb(0, 255, 127);
     }
 
-    50%
-    {
+    50% {
         color: rgb(0, 255, 255);
     }
 
-    58%
-    {
+    58% {
         color: rgb(0, 127, 255);
     }
 
-    66%
-    {
+    66% {
         color: rgb(0, 0, 255);
     }
 
-    75%
-    {
+    75% {
         color: rgb(127, 0, 255);
     }
 
-    83%
-    {
+    83% {
         color: rgb(255, 0, 255);
     }
 
-    91%
-    {
+    91% {
         color: rgb(255, 0, 127);
     }
 }
 
 /* KeyFrames for fills */
-@keyframes fill
-{
-    100%,
-    0%
-    {
+@keyframes fill {
+    100%, 0% {
         fill: rgb(255, 0, 0);
     }
 
-    8%
-    {
+    8% {
         fill: rgb(255, 127, 0);
     }
 
-    16%
-    {
+    16% {
         fill: rgb(255, 255, 0);
     }
 
-    25%
-    {
+    25% {
         fill: rgb(127, 255, 0);
     }
 
-    33%
-    {
+    33% {
         fill: rgb(0, 255, 0);
     }
 
-    41%
-    {
+    41% {
         fill: rgb(0, 255, 127);
     }
 
-    50%
-    {
+    50% {
         fill: rgb(0, 255, 255);
     }
 
-    58%
-    {
+    58% {
         fill: rgb(0, 127, 255);
     }
 
-    66%
-    {
+    66% {
         fill: rgb(0, 0, 255);
     }
 
-    75%
-    {
+    75% {
         fill: rgb(127, 0, 255);
     }
 
-    83%
-    {
+    83% {
         fill: rgb(255, 0, 255);
     }
 
-    91%
-    {
+    91% {
         fill: rgb(255, 0, 127);
     }
 }
 
 /* animation */
-@-webkit-keyframes rainbow
-{
-    0%
-    {
+@-webkit-keyframes rainbow {
+    0% {
         background-position: 0% 82%
     }
 
-    0%
-    {
+    0% {
         background-size: 100% 100%;
     }
 
-    50%
-    {
+    50% {
         background-position: 100% 19%
     }
 
-    50%
-    {
+    50% {
         background-size: 200% 200%;
     }
 
-    100%
-    {
+    100% {
         background-position: 0% 82%
     }
 
-    100%
-    {
+    100% {
         background-size: 100% 100%;
     }
 }
 
-@-moz-keyframes rainbow
-{
-    0%
-    {
+@-moz-keyframes rainbow {
+    0% {
         background-position: 0% 82%
     }
 
-    0%
-    {
+    0% {
         background-size: 100% 100%;
     }
 
-    50%
-    {
+    50% {
         background-position: 100% 19%
     }
 
-    50%
-    {
+    50% {
         background-size: 200% 200%;
     }
 
-    100%
-    {
+    100% {
         background-position: 0% 82%
     }
 
-    100%
-    {
+    100% {
         background-size: 100% 100%;
     }
 }
 
-@-o-keyframes rainbow
-{
-    0%
-    {
+@-o-keyframes rainbow {
+    0% {
         background-position: 0% 82%
     }
 
-    0%
-    {
+    0% {
         background-size: 100% 100%;
     }
 
-    50%
-    {
+    50% {
         background-position: 100% 19%
     }
 
-    50%
-    {
+    50% {
         background-size: 200% 200%;
     }
 
-    100%
-    {
+    100% {
         background-position: 0% 82%
     }
 
-    100%
-    {
+    100% {
         background-size: 100% 100%;
     }
 }
 
-@keyframes rainbow
-{
-    0%
-    {
+@keyframes rainbow {
+    0% {
         background-position: 0% 82%
     }
 
-    0%
-    {
+    0% {
         background-size: 100% 100%;
     }
 
-    50%
-    {
+    50% {
         background-position: 100% 19%
     }
 
-    50%
-    {
+    50% {
         background-size: 200% 200%;
     }
 
-    100%
-    {
+    100% {
         background-position: 0% 82%
     }
 
-    100%
-    {
+    100% {
         background-size: 100% 100%;
     }
 }
