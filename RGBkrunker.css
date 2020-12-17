@@ -11,8 +11,8 @@ Join my discord server https://discord.gg/xC3ZrYXqnM
 */
 
 /* I made a better code but it crashed and I lost it :( I lost lot time and made new one but it's not good like the old one. R.I.P anyways I didn't give up toh I raged lot */
-/* all texts etc */
 
+/* all texts etc */
 .menuItemTitle,
 .twitch,
 #onetrust-consent-sdk #onetrust-accept-btn-handler,
@@ -83,7 +83,19 @@ Join my discord server https://discord.gg/xC3ZrYXqnM
 .matchVoteMode,
 .matchVoteTotal,
 .kfItem,
-.kfMsg
+.kfMsg,
+#kCStat,
+.material-icons,
+.reportBut,
+.shareBut,
+.newLeaderTeam,
+.newLeaderTeamScore,
+#specScoreTm1,
+#networkLagHed,
+#profileName,
+#profileKR,
+#navTitle,
+.marketPrice
 {
     color: white;
     animation: text 5s linear 0s infinite alternate !important;
@@ -108,6 +120,9 @@ Join my discord server https://discord.gg/xC3ZrYXqnM
 
 /* Background as for settings etc it mostly have the same background animation */
 #instructionsUpdate,
+.scrollItemNew,
+.profileTab,
+#navBar,
 .menuItem,
 .headerBarLeft,
 .headerBar,
@@ -126,8 +141,8 @@ Join my discord server https://discord.gg/xC3ZrYXqnM
 .settingsHeader,
 #onetrust-consent-sdk #onetrust-banner-sdk,
 #policePopC,
-.button, 
-.small, 
+.button,
+.small,
 .buttonP,
 #spinButton,
 .spinPrevIcon,
@@ -139,11 +154,32 @@ Join my discord server https://discord.gg/xC3ZrYXqnM
 #specTimer,
 #killCard,
 .kfItem,
-.countIcon
+.countIcon,
+#chatScroller,
+.scrollItem,
+#postEntryC
 {
     background: linear-gradient(-45deg, #ee775275, #e73c7e7a, #23a6d57a, #23d5ab75); /* You can edit your ow color and in "deg" the animation from where etc... */
     background-size: 400% 400%;
     animation: gradient 15s ease infinite;
+}
+
+#hubBox,
+#searchBtn,
+.chatBlobImg
+{
+    color: white;
+    animation: background 5s linear 0s infinite alternate !important;
+}
+
+
+/* This is kinda epic */
+#backgroundImage
+{
+    background: linear-gradient(-45deg, #ee775275, #e73c7e7a, #23a6d57a, #23d5ab75), url(../img/menu-bg/2.png);
+    background-size: 110% 110%;
+    animation: gradient 15s ease infinite;
+    background-repeat: no-repeat;
 }
 
 /* Switchers */
