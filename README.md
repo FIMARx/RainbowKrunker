@@ -12,7 +12,7 @@ __________
 2. After that click on *`manage`* and click on *`Write new style`*.
 3. After creating new *style* copy **[RGBkrunker.css](https://raw.githubusercontent.com/FIMARx/RainbowKrunker/main/RGBkrunker.css)** and paste it to your new *style*.
 4. After pasting the *code* click on `Applies to Everything` and add `URL on the domain`.
-5. In `URL on the domain` write `www.krunker.io`.
+5. In `URL on the domain` write `krunker.io`.
 __________
 > You're done now! Enjoy your RGB Krunker!
 - Anyways I don't suggest you to use this theme if your pc has low `RAM` or `CPU`.
