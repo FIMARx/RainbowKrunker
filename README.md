@@ -17,7 +17,8 @@ __________
 > You're done now! Enjoy your RGB Krunker!
 - Anyways I don't suggest you to use this theme if your pc has low `RAM` or `CPU`.
 __________
-> **Some pictures** [COming soon]
+> **Some pictures**
+__________
 > ![image](https://user-images.githubusercontent.com/69573290/102586546-0476a300-4113-11eb-8a5b-724501c86b67.png)
 __________
 > ![image](https://user-images.githubusercontent.com/69573290/102586716-53243d00-4113-11eb-88c5-0abb1ca46357.png)
